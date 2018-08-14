@@ -1,0 +1,48 @@
+body {
+  background: linear-gradient(to bottom, #0B2F3A, #088A85, #58FAF4);
+  padding: 15px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: chiller;
+  font-size: 70px;
+}
+
+.column1 {
+  width: 30%;
+  float: right;
+}
+
+.column2 {
+  width: 30%;
+  float: left;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
+
+.photo {
+  box-shadow: 7px 7px 7px black;
+  transform: rotate(5deg);
+}
+
+.item {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 5px dashed #8A0808;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background: #FACC2E;
+  font-family: chiller;
+  padding: 5px;
+  margin: 0px 0px 10px 0px;
+  box-shadow: 3px 3px 3px black;
+}
