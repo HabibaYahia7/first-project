@@ -1,9 +1,10 @@
 body {
-  background: linear-gradient(to bottom, #0B2F3A, #088A85, #58FAF4);
+
   padding: 15px;
 }
 
-h1 {
+ h1 {
+  margin: 0px 0px 20px 0px;
   text-align: center;
   color: white;
   font-family: chiller;
@@ -45,4 +46,12 @@ h2 {
   padding: 5px;
   margin: 0px 0px 10px 0px;
   box-shadow: 3px 3px 3px black;
+}
+
+.heading {
+  background: linear-gradient(to bottom, #0B2F3A, #088A85, #58FAF4);
+  width: 100%;
+  height: 25%;
+
+
 }
